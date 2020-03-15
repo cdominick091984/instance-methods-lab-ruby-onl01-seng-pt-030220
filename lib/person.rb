@@ -1,6 +1,6 @@
 class Person
   def talk
-    puts "hi"
+    puts "Hello World"
   end
 
 end
